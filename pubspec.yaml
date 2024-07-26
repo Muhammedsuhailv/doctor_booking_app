@@ -1,0 +1,48 @@
+name: practo_main
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  carousel_slider: ^4.2.1
+  hexcolor: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - asset/50+.png
+    - asset/Anxiety.jpg
+    - asset/Bone.jpg
+    - asset/dental.jpg
+    - asset/Diabetes.jpg
+    - asset/doc.png
+    - asset/doc1.png
+    - asset/doc2.png
+    - asset/doctor1.jpg
+    - asset/doctor2.jpg
+    - asset/hair.jpg
+    - asset/knee.jpg
+    - asset/piles.jpg
+    - asset/Pimple.jpg
+    - asset/pregnancy.jpg
+    - asset/promotion_banner2.png
+    - asset/sexual.png
+    - asset/Stomach.jpg
+    - asset/Vector.png
+    - asset/sexualhealth.png
+    - asset/general.jpg
+    - asset/skin.jpg
